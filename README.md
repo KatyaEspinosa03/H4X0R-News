@@ -7,7 +7,7 @@ The app consists on a news app in which you can click on the headline of the new
 
 SwiftUI was used for the UI design, and WKWebView to redirect the user to the artcile from the list. 
 
-## The data was fecthed from the follwing API:
+## The data was fecthed from the following API:
 
 http://hn.algolia.com/api/v1/search?tags=front_page
 
